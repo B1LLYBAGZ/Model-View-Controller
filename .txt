@@ -1,0 +1,7 @@
+see all blog post public
+user can register
+user can log in\out
+user can add blog post
+blog need blog post/content
+update/delet post
+

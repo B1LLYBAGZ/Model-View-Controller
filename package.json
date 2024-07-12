@@ -1,0 +1,21 @@
+{
+  "name": "my-sequelize-project",
+  "version": "1.0.0",
+  "description": "A project using Sequelize, bcrypt, dotenv, pg, and express",
+  "main": "index.js",
+  "scripts": {
+    "seed": "nodemon seeds/seed.js",
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "6.3.5",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "pg": "^8.7.1",
+    "express": "^4.17.1"
+  }
+}

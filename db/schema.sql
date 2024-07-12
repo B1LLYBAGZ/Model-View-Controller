@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS tec_talk_db;
+
+CREATE DATABASE tec_talk_db;
